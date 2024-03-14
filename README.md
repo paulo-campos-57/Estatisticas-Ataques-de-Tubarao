@@ -1,6 +1,7 @@
 # Estatísticas-Ataques-de-Tubarão
 ## Repositório destinado ao projeto da disciplina de Estatística - Cesar School, 4° Período 
-
+Estamos analisando um dataset que abrange dados de 1845 até 2020 e contém 6462 ataques de tubarão registrados.
+<a href="https://www.kaggle.com/datasets/thedevastator/shark-attacks-the-risks-of-coastal-water-activit/data">Link para o dataset</a>
 ## DESENVOLVEDORES
 <table>
   <tr>
